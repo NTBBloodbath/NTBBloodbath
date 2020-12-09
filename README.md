@@ -15,8 +15,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ntbbloodbath&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ntbbloodbath&show_icons=true&theme=tokyonight"/>
+</p>
 
-![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntbbloodbath&theme=tokyonight&layout=compact)
-
-![wakatime](https://github-readme-stats.vercell.app/api/wakatime?username=ntbbloodbath&theme=tokyonight)
+<p align="center">
+  <img alt="github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntbbloodbath&theme=tokyonight&layout=compact"/>
+</p>
