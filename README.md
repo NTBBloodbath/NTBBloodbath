@@ -16,9 +16,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ntbbloodbath&show_icons=true&theme=tokyonight"/>
+  <img width="100%" height="200" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ntbbloodbath&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img alt="github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntbbloodbath&theme=tokyonight&layout=compact"/>
+  <img width="100%" height="200" alt="github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntbbloodbath&theme=tokyonight&layout=compact"/>
 </p>
