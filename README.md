@@ -1,6 +1,6 @@
 ### NTBBloodbath
-![Reddit](https://img.shields.io/reddit/user-karma/combined/NTBBloodbath?logo=reddit&style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-Contact-blue&?link=https://t.me/NTBBloodbath&logo=Telegram&style=for-the-badge)
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/NTBBloodbath?logo=reddit&style=for-the-badge)](https://reddit.com/user/NTBBloodbath)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue&?link=https://t.me/NTBBloodbath&logo=Telegram&style=for-the-badge)](https://t.me/NTBBloodbath)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
