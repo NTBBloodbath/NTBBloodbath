@@ -1,0 +1,22 @@
+### NTBBloodbath
+![Reddit](https://img.shields.io/reddit/user-karma/combined/NTBBloodbath?logo=reddit&style=for-the-badge)
+![Telegram](https://img.shields.io/badge/Telegram-Contact-blue&?link=https://t.me/NTBBloodbath&logo=Telegram&style=for-the-badge)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### About me
+
+-  **Learning :** Golang and Rust :book:
+-  **Languages :** BASH, Python, Ruby :gear:
+-  **Web :** HTML5, CSS3, SCSS, Bootstrap, jQuery, JavaScript, NodeJS, Vue.js, SQL :globe_with_meridians:
+-  **Hobbies :** Gaming & Music :headphones:
+-  **Technologies :** Git, GitHub, GNU/Linux, Vim/Neovim, VSC, Atom :building_construction:
+-  **Organization :** [PyBase](https://github.com/PyBase)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ntbbloodbath&show_icons=true&theme=tokyonight)
+
+![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntbbloodbath&theme=tokyonight&layout=compact)
+
+![wakatime](https://github-readme-stats.vercell.app/api/wakatime?username=ntbbloodbath&theme=tokyonight)
