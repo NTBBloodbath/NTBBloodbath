@@ -6,7 +6,7 @@
 
 ### About me
 
--  **Learning :** V :book:
+-  **Learning :** Elixir and Emacs :book:
 -  **Languages :** BASH, Python, Ruby :gear:
 -  **Web :** HTML5, CSS3, SCSS, Bootstrap, jQuery, JavaScript, NodeJS, Vue.js, SQL :globe_with_meridians:
 -  **Hobbies :** Gaming & Music :headphones:
