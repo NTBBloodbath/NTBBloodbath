@@ -5,8 +5,6 @@
   <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<hr />
-
 <h2 align="center">About me</h2>
 
 <h3>I'm currently learning</h3>
@@ -15,6 +13,8 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJango" />
 </p>
+
+<hr />
 
 <h3 align="center">Web development</h3>
 <h4 align="center">Front-end</h4>
@@ -33,7 +33,7 @@
 <p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
 </p>
-<hr />
+
 <h4 align="center">Back-end</h4>
 <h5>Languages</h5>
 <p>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-<hr />
+
 <h4 align="center">Editors</h4>
 <p>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
@@ -75,8 +75,6 @@
   <img src="https://img.shields.io/badge/VSC-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSC" />
   <img src="https://img.shields.io/badge/Atom-66595C?logo=Atom&logoColor=white&style=for-the-badge" alt="Atom" />
 </p>
-
-<hr/>
 
 <details>
   <summary>Click for GitHub stats</summary>
