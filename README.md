@@ -11,8 +11,8 @@
 
 <ul>
   <li><a href="https://github.com/NTBBloodbath/doom-nvim">doom-nvim</a>, A Neovim configuration for the advanced martian hacker.</li>
-  <li><a href="https://github.com/NTBBloodbath/rest.nvim">rest.nvim</a>, A fast Neovim http client written in Lua.</li>
-  <li><a href="https://github.com/NTBBloodbath/lcfetch">lcfetch</a>, A fast and easy to configure alternative to neofetch written in C and configured using Lua.</li>
+  <li><a href="https://github.com/neo-sh/neosh">neosh</a>, A next-gen shell for modern systems.</li>
+  <li><a href="https://github.com/nvim-plugnplay/pnp-cli">plugnplay</a>, The ultimative neovim plugin ecosystem.</li>
 </ul>
 
 <h3>Projects I want to contribute to</h3>
