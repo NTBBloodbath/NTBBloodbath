@@ -10,15 +10,15 @@
 <h3>What am I currently working on</h3>
 
 <ul>
-  <li><a href="https://github.com/doom-neovim/doom-nvim">doom-nvim</a>, A Neovim configuration for the advanced martian hacker.</li>
-  <li><a href="https://github.com/rest-nvim/rest.nvim">rest.nvim</a>, A fast Neovim http client written in Lua.</li>
-  <li><a href="https://github.com/nvim-neorg/norg-fmt">norg-fmt</a>, Formatter for <a href="https://github.com/nvim-neorg/neorg">Neorg</a>.</li>
+  <li><a href="https://github.com/rest-nvim/rest.nvim">rest.nvim</a>. A fast Neovim HTTP client.</li>
+  <li><a href="https://github.com/nvim-neorocks/rocks.nvim">rocks.nvim</a>. A modern approach to Neovim plugin management.</li>
+  <li><a href="https://github.com/ci-hive/hive-core">Hive CI</a>. An experimental, modern and friendly CI engine.</li>
 </ul>
 
 <h3>Projects I want to contribute to</h3>
 
 <ul>
-  <li><a href="https://github.com/neovim/neovim">neovim</a>, Vim-fork focused on extensibility and usability.</li>
+  <li><a href="https://github.com/neovim/neovim">Neovim</a>, Vim-fork focused on extensibility and usability.</li>
 </ul>
 
 <hr />
@@ -74,7 +74,7 @@
 <p>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
   <img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" />
-  <img src="https://img.shields.io/badge/VSC-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSC" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSCode" />
 </p>
 
 <details>
