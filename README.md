@@ -10,8 +10,8 @@
 <h3>What am I currently working on</h3>
 
 <ul>
-  <li><a href="https://github.com/rest-nvim/rest.nvim">rest.nvim</a>. A fast Neovim HTTP client.</li>
   <li><a href="https://github.com/nvim-neorocks/rocks.nvim">rocks.nvim</a>. A modern approach to Neovim plugin management.</li>
+  <li><a href="https://github.com/NTBBloodbath/norgolith">norgolith</a>. The monolithic Norg static site generator built with Rust.</li>
   <li><a href="https://github.com/ci-hive/hive-core">Hive CI</a>. An experimental, modern and friendly CI engine.</li>
 </ul>
 
@@ -21,61 +21,9 @@
   <li><a href="https://github.com/neovim/neovim">Neovim</a>, Vim-fork focused on extensibility and usability.</li>
 </ul>
 
-<hr />
-
-<h3 align="center">My knowledge</h3>
-<h4 align="center">Web development</h4>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-<h5>Frameworks</h5>
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-<h5 align="center">Back-end</h5>
-<h5>Languages</h5>
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-</p>
-<h5>Environments</h5>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-</p>
-<h5>Databases</h5>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3" />
-</p>
+<h3>Make sure to check out my <a href="https://amartin.codeberg.page/">blog</a> to know more about me!</h3>
 
 <hr />
-
-<h3 align="center">Technologies that I use</h3>
-
-<h4 align="center">DevOps</h4>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="BASH" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<h4 align="center">Editors</h4>
-<p>
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSCode" />
-</p>
 
 <details>
   <summary>Click for GitHub stats</summary>
