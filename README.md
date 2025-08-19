@@ -108,13 +108,9 @@ Longer-form thoughts live on the blog. Latest posts auto-update below (via RSS).
 <!-- BLOG_INTRO_END -->
 
 <!-- BLOG_POSTS_START -->
-<!--
-Automated insertion point.
-A GitHub Action can replace the block below with the latest N posts.
-Example placeholder list:
-- YYYY-MM-DD — [Post Title One](https://amartin.beer/posts/post-slug) - Description
-- YYYY-MM-DD — [Post Title Two](https://amartin.beer/posts/post-slug) - Description
--->
+- Tue, 15 Ju — [Norg on the Web](https://amartin.beer/posts/norg-on-the-web/) - How to escape markdown and adopt norg for your blog
+- Thu, 25 Ja — [Hello Http Parser](https://amartin.beer/posts/hello-http-parser/) - Let’s welcome a renewed, improved and optimized parser ready to join the party
+- Sat, 23 De — [Hello Luarocks](https://amartin.beer/posts/hello-luarocks/) - Have you ever thought about having proper and painless management of your plugins in Neovim?
 <!-- BLOG_POSTS_END -->
 
 ## Why Neovim (and Text‑First Workflows)
