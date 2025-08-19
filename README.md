@@ -154,7 +154,6 @@ Prefer DM via:
 - Bluesky
 
 Or use any contact channel exposed on my blog (email intentionally not listed here to reduce scraping and bots spam).
-Sponsorship / coffee: https://ko-fi.com/ntbbloodbath
 
 **DMs open on social platforms.**
 <!-- CONTACT_END -->
