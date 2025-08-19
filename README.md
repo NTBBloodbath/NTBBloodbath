@@ -22,30 +22,30 @@
 
 I build and maintain tooling around developer ergonomics, text-first workflows, and deterministic & reproducible environments.
 
-- Currently: Bringing Neorg to non-Neovim environments; improving the Lua ecosystem experience.
-- Exploring / learning: Zig, Nix flakes best practices, Jujutsu (jj)–based workflows (replacing Git day‑to‑day).
-- Interests: Self-hosting, system hardening, service monitoring, container (Podman/Docker) workflows.
+- **Currently**: Bringing Neorg to non-Neovim environments; improving the Lua ecosystem experience.
+- **Exploring / learning**: Zig, Nix flakes best practices, Jujutsu (jj)–based workflows (replacing Git day‑to‑day).
+- **Interests**: Self-hosting, system hardening, service monitoring, container (Podman/Docker) workflows.
 
 ## Open Source Highlights
 <!-- PROJECTS_START -->
 ### norgolith (Rust) — Monolithic static site generator for Norg
-**Repository**: https://github.com/NTBBloodbath/norgolith
-**Role**: Maintainer
+**Repository**: https://github.com/NTBBloodbath/norgolith<br/>
+**Role**: Maintainer<br/>
 **Focus**: Content pipeline performance, reproducible builds, structured document processing.
 
 ### rest.nvim (Lua) — Asynchronous Neovim HTTP client
-**Repository**: https://github.com/rest-nvim/rest.nvim
-**Role**: Original creator (no longer maintainer)
+**Repository**: https://github.com/rest-nvim/rest.nvim<br/>
+**Role**: Original creator (no longer maintainer)<br/>
 **Impact**: Helped shape modern HTTP/integration workflows inside Neovim.
 
 ### neorg (Lua) — Next‑gen organization system inside Neovim
-**Repository**: https://github.com/nvim-neorg/neorg
-**Role**: Contributor
+**Repository**: https://github.com/nvim-neorg/neorg<br/>
+**Role**: Contributor<br/>
 **Contribution areas**: Modules, ecosystem integration, improving extensibility patterns, bug fixes, CI/CD maintenance.
 
 ### rocks.nvim (Lua) — Cargo‑inspired Neovim plugin management via LuaRocks
-**Repository**: https://github.com/nvim-neorocks/rocks.nvim
-**Role**: Maintainer / Contributor
+**Repository**: https://github.com/nvim-neorocks/rocks.nvim<br/>
+**Role**: Maintainer / Contributor<br/>
 **Goal**: Deterministic, dependency‑aware plugin management with LuaRocks as a first‑class backend.
 <!-- PROJECTS_END -->
 
