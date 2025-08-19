@@ -24,7 +24,7 @@ jobs:
           N = 3
           lines = []
           for entry in feed.entries[:N]:
-              date = getattr(entry, "published", "")[:10]
+              date = getattr(entry, "published", "")[:16]
               lines.append(f"- {date} — [{entry.title}]({entry.link}) - {entry.description}")
           path = pathlib.Path("README.md")
           text = path.read_text(encoding="utf-8")
