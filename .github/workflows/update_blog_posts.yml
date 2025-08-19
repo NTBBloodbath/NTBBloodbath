@@ -1,0 +1,47 @@
+name: Update blog posts
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install feedparser
+      - name: Fetch RSS and update README
+        run: |
+          python3 - <<'EOF'
+          import feedparser, re, pathlib
+          feed = feedparser.parse("https://amartin.beer/rss.xml")
+          N = 3
+          lines = []
+          for entry in feed.entries[:N]:
+              date = getattr(entry, "published", "")[:10]
+              lines.append(f"- {date} — [{entry.title}]({entry.link}) - {entry.description}")
+          path = pathlib.Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          import re as _re
+          pattern = _re.compile(r"(<!-- BLOG_POSTS_START -->)(.*?)(<!-- BLOG_POSTS_END -->)", _re.DOTALL)
+          new_block = "<!-- BLOG_POSTS_START -->\n" + "\n".join(lines) + "\n<!-- BLOG_POSTS_END -->"
+          text = pattern.sub(new_block, text)
+          path.write_text(text, encoding="utf-8")
+          EOF
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+            # Standard noreply
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update blog posts"
+          git push
