@@ -118,9 +118,7 @@ Longer-form thoughts live on the blog. Latest posts auto-update below (via RSS).
 <!-- BLOG_INTRO_END -->
 
 <!-- BLOG_POSTS_START -->
-- Tue, 15 Jul 2025 — [Norg on the Web](https://amartin.beer/posts/norg-on-the-web/) - How to escape markdown and adopt norg for your blog
-- Thu, 25 Jan 2024 — [Hello Http Parser](https://amartin.beer/posts/hello-http-parser/) - Let’s welcome a renewed, improved and optimized parser ready to join the party
-- Sat, 23 Dec 2023 — [Hello Luarocks](https://amartin.beer/posts/hello-luarocks/) - Have you ever thought about having proper and painless management of your plugins in Neovim?
+
 <!-- BLOG_POSTS_END -->
 
 ## Why Neovim (and Text‑First Workflows)
