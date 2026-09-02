@@ -7,11 +7,11 @@
 
 <p align="center">
   <!-- Core Stack (concise high-signal row) -->
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/Neovim-0F111A?style=for-the-badge&logo=neovim&logoColor=57A143" alt="Neovim"/>
   <img src="https://img.shields.io/badge/Jujutsu%20(jj)-772953?style=for-the-badge" alt="Jujutsu"/>
 </p>
@@ -22,12 +22,22 @@
 
 I build and maintain tooling around developer ergonomics, text-first workflows, and deterministic & reproducible environments.
 
-- **Currently**: Bringing Neorg to non-Neovim environments; improving the Lua ecosystem experience.
+- **Currently**: Building Notarium and Luanox (Phoenix/Elixir, PostgreSQL) and extending the Norg ecosystem beyond Neovim through Norgolith (Rust); improving the Lua ecosystem experience.
 - **Exploring / learning**: Zig, Nix flakes best practices, Jujutsu (jj)–based workflows (replacing Git day‑to‑day).
 - **Interests**: Self-hosting, system hardening, service monitoring, container (Podman/Docker) workflows.
 
 ## Open Source Highlights
 <!-- PROJECTS_START -->
+### luanox (Elixir) — Alternative to luarocks.org for hosting Lua libraries
+**Repository**: https://github.com/lumen-oss/luanox<br/>
+**Role**: Creator / Maintainer<br/>
+**Focus**: Scalable, secure package hosting for the Lua ecosystem; parallel async downloads; reproducible environments via Nix with a Phoenix (Elixir) + PostgreSQL backend.
+
+### notarium (Elixir) — Self-hostable knowledge management platform for the Norg markup format
+**Repository**: https://github.com/NTBBloodbath/notarium<br/>
+**Role**: Creator / Maintainer<br/>
+**Focus**: Text-first knowledge management in the Norg ecosystem; Phoenix (Elixir) + PostgreSQL backend with a Nix-based reproducible dev environment.
+
 ### norgolith (Rust) — Monolithic static site generator for Norg
 **Repository**: https://github.com/NTBBloodbath/norgolith<br/>
 **Role**: Maintainer<br/>
@@ -54,10 +64,10 @@ I build and maintain tooling around developer ergonomics, text-first workflows, 
 <!-- STACK_START -->
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/>
   <img src="https://img.shields.io/badge/Bash-3E484A?style=for-the-badge&logo=gnu%20bash&logoColor=white" alt="Bash"/>
 </p>
@@ -159,5 +169,5 @@ Or use any contact channel exposed on my blog (email intentionally not listed he
 <!-- CONTACT_END -->
 
 <!--
-Last updated: 19-08-2025
+Last updated: 02-08-2026
 -->
